@@ -18,7 +18,7 @@ public class Api {
     // App URL
     public static final String MainUrl = "http://192.168.1.12/salon/webservices/web/index.php";
 
-
+    //Api Call
     public static final String ActionLogin = "/login";
     public static final String ActionRegistration = "/user/register";
 
